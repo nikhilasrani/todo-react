@@ -5,8 +5,8 @@ function About() {
     <React.Fragment>
       <h1>About</h1>
       <p>
-        This is the Todo List App v1.0.0. made by Nikhil Asrani. It is part of a
-        React crash course that I am learning React from.
+        This is a simple To-do List App built by Nikhil Asrani. It is built
+        using React.
       </p>
     </React.Fragment>
   );
